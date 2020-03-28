@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IdeaProjects/task-web/target/servlet/WEB-INF/lib/jackson-core-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IdeaProjects/task-web/target/servlet/WEB-INF/lib/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IdeaProjects/task-web/target/servlet/WEB-INF/lib/jackson-annotations-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IdeaProjects/task-web/target/servlet/WEB-INF/lib/jackson-databind-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IdeaProjects/task-web/target/servlet/WEB-INF/lib/json-20190722.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
